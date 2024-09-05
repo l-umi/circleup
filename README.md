@@ -216,7 +216,7 @@
 1. 저장소 클론
 
 ```
-git clone https://lab.ssafy.com/s11-webmobile1-sub2/S11P12A504.git
+git clone https://github.com/l-umi/circleup
 ```
 실시간 강의를 위해서는 openVidu 서버가 필요합니다 
 (openVidu가 없다면, ./backend/src/main/java/com/ssafy/api/controller/SessionController.java 파일을 삭제하세요)
